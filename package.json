@@ -1,12 +1,12 @@
 {
-	"name": "free-ps-banner",
-	"version": "0.0.2",
+	"name": "test-ui-package-basha",
+	"version": "0.0.1",
 	"private": false,
-	"description": "A JavaScript library that makes it easy to a free Palestine banner in your react web app",
+	"description": "A test ui library for a tutorial",
 	"author": "Adam Basha",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Bashamega/free-ps-banner"
+		"url": "https://github.com/BashaCoderYoutubeChannel/test-ui-package-basha"
 	},
 	"sideEffects": false,
 	"exports": {
